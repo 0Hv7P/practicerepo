@@ -1,2 +1,5 @@
-for i in range(100):
-    print(i)
+A = 32
+B = 43
+for i in A:
+    B =B+i
+print(B)
